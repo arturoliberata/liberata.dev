@@ -1,0 +1,18 @@
+:root {
+  padding: 64px 24px 0; /* was: 0 24px  → now 64px on top */
+  background: #202023;
+  color: aliceblue;
+  font-family: "consolas";
+  --muted: #999999;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 24px;
+  box-sizing: border-box;
+}
