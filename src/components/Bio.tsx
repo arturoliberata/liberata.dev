@@ -12,8 +12,8 @@ function Bio() {
           Graduated in Computer Science, University of Nebraska at Omaha
         </li>
         <li>
-          <span className="bio-year">2021</span>
-          Joined National Indemnity
+          <span className="bio-year">2017</span>
+          Joined National Indemnity Company
         </li>
         <li>
           <span className="bio-year">2021</span>
